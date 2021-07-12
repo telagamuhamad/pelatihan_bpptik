@@ -1,0 +1,63 @@
+body{
+	background-color: #575353 !important;
+}
+
+h1{
+	text-align: center;
+	color: white !important;
+	padding-top: 30px;
+}
+
+#forminput{
+	margin-left: 33%;
+}
+
+h3{
+	text-align: center;
+	color: white !important;
+}
+
+#tombol{
+	margin-left: 47%;
+}
+
+#tambah{
+	background-color: #6174A4;
+  	width: 300px;
+  	padding: 50px;
+  	margin: 20px;
+  	text-align: center;
+  	color: white;
+}
+
+#kurang{
+	background-color: #8AA461;
+  	width: 300px;
+  	padding: 50px;
+  	margin: 20px;
+  	text-align: center;
+  	color: white;
+}
+
+#kali{
+	background-color: #8F8E78;
+  	width: 300px;
+  	padding: 50px;
+  	margin: 20px;
+  	text-align: center;
+  	color: white;
+}
+
+#bagi{
+	background-color: #B62020;
+  	width: 300px;
+  	padding: 50px;
+  	margin: 20px;
+  	text-align: center;
+  	color: white;
+}
+
+table{
+	margin-left: 25%;
+}
+
